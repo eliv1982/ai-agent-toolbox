@@ -1,0 +1,31 @@
+# Environment
+.env
+
+# Runtime artifacts
+agent.log
+memory.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Data sandbox outputs (keep directories via .gitkeep)
+data/files/*
+!data/files/.gitkeep
+data/qr_codes/*
+!data/qr_codes/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+screenshots/

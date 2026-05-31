@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langchain-openai
+requests
+ddgs
+streamlit
+qrcode[pil]
+pillow
+pytest
+colorama

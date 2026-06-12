@@ -1,6 +1,6 @@
-# ai-agent-toolbox-homework
+# ai-agent-toolbox
 
-Учебный локальный AI-agent toolbox на Python 3.11+ с LangChain, OpenAI-compatible LLM, CLI и **русскоязычным** web-интерфейсом Streamlit.
+Локальный AI-agent toolbox на Python 3.11+ с LangChain, OpenAI-compatible LLM, CLI и **русскоязычным** web-интерфейсом Streamlit.
 
 ## Чем AI-agent отличается от обычной LLM
 
@@ -167,4 +167,4 @@ ai-agent-toolbox-homework/
 
 ## Лицензия
 
-Учебный проект для домашнего задания.
+
